@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/evacl/Desktop/Clicker/Content/Meshes/computer.uasset",
+				"C:/Users/evacl/Desktop/Clicker/Content/Meshes/texture_1.uasset",
+				"C:/Users/evacl/Desktop/Clicker/Content/Meshes/Computer1.uasset",
+				"C:/Users/evacl/Desktop/Clicker/Content/Blueprints/GM_Camera.uasset",
+				"C:/Users/evacl/Desktop/Clicker/Content/ComputerLevel.umap",
+				"C:/Users/evacl/Desktop/Clicker/Content/Blueprints/BP_Camera.uasset",
+				"C:/Users/evacl/Desktop/Clicker/Content/Blueprints/BP_PlayerCon.uasset",
+				"C:/Users/evacl/Desktop/Clicker/Content/Widgets/WB_Test.uasset"
+			]
+		}
+	]
+}
